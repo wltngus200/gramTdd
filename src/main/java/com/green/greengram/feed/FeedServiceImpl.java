@@ -16,7 +16,7 @@ import static com.green.greengram.common.GlobalConst.COMMENT_SIZE_PER_FEED;
 @Slf4j
 @Service
 @RequiredArgsConstructor
-public class FeedServiceImpl {
+public class FeedServiceImpl{
     private final FeedMapper mapper;
     private final CustomFileUtils customFileUtils;
 
