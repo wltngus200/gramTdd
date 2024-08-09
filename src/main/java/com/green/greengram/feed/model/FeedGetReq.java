@@ -25,4 +25,5 @@ public class FeedGetReq extends Paging {
         this.signedUserId=signedUserId;
         this.profileUserId=profileUserId;
     }
+
 }
